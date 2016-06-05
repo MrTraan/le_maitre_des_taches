@@ -1,0 +1,21 @@
+{
+  "name": "taskmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^7.0.0",
+    "restify": "^4.1.0"
+  },
+  "devDependencies": {
+    "chai-as-promised": "^5.3.0",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "lodash": "^4.13.1"
+  }
+}
